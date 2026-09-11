@@ -28,6 +28,6 @@ I build and maintain services for an omnichannel retail **Order Management Syste
 
 ## Reach me
 
-- 📧 [TU EMAIL DE CONTACTO AQUÍ]
-- 💼 [LinkedIn opcional]
+- 📧 [Gonzalezjoni6@gmail.com](mailto:Gonzalezjoni6@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-patrick-molina-gonzález-2abb69281)
 - Open to discussing backend/fullstack roles — feel free to reach out.
