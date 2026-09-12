@@ -44,6 +44,7 @@ Fullstack Engineer focused on **backend microservices** — Node.js, event-drive
 - 🔗 **[order-sync-service](https://github.com/Yoni1999/order-sync-service)** — event-driven order sync between an OMS, a SAP-style ERP mock, and a VTEX-style commerce mock, built with NestJS, Kafka and the Outbox pattern.
 - 🛠️ **[Software_Ferreteria](https://github.com/Yoni1999/Software_Ferreteria)** — desktop inventory management app for a hardware store (Tauri + React + TypeScript + Rust).
 - 🔒 **Mimbral OMS — microservices platform** *(private, company codebase)* — ~70 Node.js/TypeScript microservices for an omnichannel retail Order Management System: order lifecycle, inventory, pricing, purchasing, finance and POS, with Kafka event-driven sync into SAP Business One and VTEX. Code isn't public, but `order-sync-service` above reproduces the core integration pattern.
+- 🔒 **banco-chile-scraper** *(private, personal use)* — desktop tool (Python + Playwright + Tkinter) that automates logging into your own Banco de Chile online banking to download your bank statement (cartola) and parse it into a structured Excel report, with credentials kept in the OS keychain rather than plaintext. Built toward reconciling paid checks against records already tracked internally. Kept private since it automates a personal banking login.
 
 ### 📫 Get in touch
 
